@@ -28,3 +28,9 @@ Start Screen
 Last Level
 
 ![](https://github.com/resteybar/Otter-Hacks-2017/blob/master/space.gif)
+
+Gameplay
+
+![](https://github.com/resteybar/Otter-Hacks-2017/blob/master/Gameplay/2nd_level.png)
+
+![](https://github.com/resteybar/Otter-Hacks-2017/blob/master/Gameplay/Last_level.png)
