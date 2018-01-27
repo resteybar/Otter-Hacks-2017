@@ -2,6 +2,13 @@
 
 Worked as a group of 5 who created an inspired game of "Space Invaders." Utilized the Turtle library to incorporate music, character movement, environmental graphics, and collision detection in Python.
 
+Group Members:
+  1) Eros Gonzalez
+  2) Joshua Saavedra
+  3) Ariel McCarthy
+  4) Marco Aguilera
+  5) Raymond Esteybar
+
 Start Screen
 
 ![](https://github.com/resteybar/Otter-Hacks-2017/blob/master/startScreen.gif)
